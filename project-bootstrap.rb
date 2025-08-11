@@ -12,7 +12,7 @@ class ProjectBootstrap < Formula
     depends_on "terraform"
     depends_on "aws"
     depends_on "kubectl"
-    depends_on "curl"
+    depends_on "awscli"
   
     def caveats
       <<~EOS
