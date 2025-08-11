@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class project-bootstrapping < Formula
+class ProjectBootstrapping < Formula
     desc "Project bootstrapping tool for Terraform projects"
     homepage "https://spartan-dev.io/"
     url "https://github.com/spartan-quannguyen/terraform-bootstrap/archive/refs/tags/v0.0.1.tar.gz"
