@@ -4,8 +4,8 @@
 class ProjectBootstrap < Formula
     desc "Project bootstrapping tool for Terraform projects"
     homepage "https://spartan-dev.io/"
-    url "https://github.com/spartan-quannguyen/terraform-bootstrap/archive/refs/tags/latest.tar.gz"
-    sha256 "81d0125803e5aab8bc68375a66470b5210773a82c8ae6e62d88aa3d052fb8a7c"
+    url "https://github.com/spartan-quannguyen/terraform-bootstrap/archive/refs/tags/v0.1.0.tar.gz"
+    sha256 "cc2352f883202d4b99e7a057f5b8c44f4056fd2c2030287c5c6db4714b0712ba"
     license "Apache-2.0"
   
     depends_on "jq"
