@@ -28,6 +28,6 @@ class ProjectBootstrap < Formula
     end
   
     def install
-      bin.install 'main.sh'
+      bin.install 'installation.sh'
     end
   end
